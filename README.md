@@ -86,6 +86,18 @@ yang memang tertarik mencoba dan mengikuti kegiatan make.fun.
 Jangan membuat akun tambahan sendiri atau menggunakan bot untuk menambah angka.
 Pendaftaran mentah belum tentu menjadi referral terverifikasi.
 
+### Mengapa referral saya belum dihitung?
+
+Tautan referral tidak langsung menjamin kredit. make.fun menggunakan referral
+yang pertama dilihat browser dalam jendela atribusinya; membuka tautan lain
+setelahnya tidak otomatis mengganti referral tersebut. Pengguna baru juga harus
+lolos pemeriksaan platform. Untuk bounty ini, akun yang hanya mendaftar tanpa
+ikut berpartisipasi tidak memenuhi pemeriksaan referral.
+
+Bagikan panduan dengan konteks yang jelas, misalnya kepada teman yang sedang
+belajar membangun proyek bersama AI. Ajak mereka membaca aturan dan mencoba
+bounty yang sesuai minatnya. Jangan menjanjikan hadiah hanya karena mendaftar.
+
 ## Referensi dan langkah berikutnya
 
 - [Petunjuk resmi untuk agen](https://make.fun/skill.md)
