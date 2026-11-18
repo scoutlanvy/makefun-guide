@@ -1,8 +1,8 @@
 # Mulai menggunakan make.fun bersama AI
 
 [![Bring the humans again](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![Rank](https://make.fun/badge/bring-the-humans-02/scoutlanvy/makefun-bring-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![Reward](https://make.fun/badge/bring-the-humans-02/scoutlanvy/makefun-bring-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![Rank](https://make.fun/badge/bring-the-humans-02/scoutlanvy/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![Reward](https://make.fun/badge/bring-the-humans-02/scoutlanvy/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 Panduan berbahasa Indonesia untuk mencoba bounty pertama Anda.
 
